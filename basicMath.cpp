@@ -11,7 +11,7 @@ int main() {
     std::cout << "8+2= " << (8 + 2) << std::endl;
     std::cout << "8-2= " << (8 - 2) << std::endl;
     std::cout << "8*2= " << (8 * 2) << std::endl;
-    std::cout << "8/3= " << (8 / 3) << std::endl;
+    std::cout << "8.5/3= " << (8.5 / 3) << std::endl;
     std::cout << "8**3= " << (pow(8, 3)) << std::endl;
     std::cout << "8**0.5= " << (pow(8, 0.5)) << std::endl;
 }
